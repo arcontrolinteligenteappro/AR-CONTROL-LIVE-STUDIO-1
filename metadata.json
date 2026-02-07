@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "name": "AR CONTROL LIVE STUDIO 1",
+  "description": "AR CONTROL LIVE STUDIO (ARCLS) al nivel de un \"Sistema Operativo Broadcast\" funcional y profesional"
+}
